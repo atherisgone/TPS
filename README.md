@@ -98,11 +98,5 @@ This project follows three strict principles:
 - UI polish (round counter, health)
 - Additional visual feedback on hits
 
----
-
-## 👤 Author
-
-Developed by **Sir**  
-Unreal Engine Developer (Student)  
 
 This project is part of a focused effort to build **strong gameplay-first portfolio pieces**.
