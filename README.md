@@ -8,7 +8,7 @@ This project was developed as a **portfolio piece**, prioritizing **player satis
 
 ## 🎯 Core Concept
 
-Gun Feel is a **round-based third-person shooter** inspired by the pacing and tension of games like :contentReference[oaicite:0]{index=0}, reimagined from a third-person perspective.
+Gun Feel is a **round-based third-person shooter** inspired by the pacing and tension of games like CS, reimagined from a third-person perspective.
 
 - Small, readable map
 - Short, repeatable rounds
