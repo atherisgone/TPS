@@ -72,13 +72,26 @@ This project follows three strict principles:
 
 ---
 
-## 📷 Media
+## 🎥 Gameplay Highlights
 
-- Gameplay footage and screenshots will be added showcasing:
-  - Shooting feel
-  - Hit reactions
-  - Camera behavior
-  - Round flow
+### Over-the-Shoulder Aiming
+Responsive camera alignment with controlled shoulder offset and camera lag for stable aiming.
+
+![OTS Aim](Media/ots_aim.gif)
+
+---
+
+### Hitscan Shooting & Hit Feedback
+Line trace-based shooting with immediate visual and audio feedback on impact.
+
+![Hitscan Shooting](Media/hitscan.gif)
+
+---
+
+### Over-the-Shoulder Movement
+Smooth third-person locomotion tuned for shooter pacing and camera clarity.
+
+![OTS Run](Media/ots_run.gif)
 
 ---
 
