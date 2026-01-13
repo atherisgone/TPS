@@ -77,21 +77,21 @@ This project follows three strict principles:
 ### Over-the-Shoulder Aiming
 Responsive camera alignment with controlled shoulder offset and camera lag for stable aiming.
 
-<video src="Media/ots_aim.mp4" controls muted loop playsinline width="100%"></video>
+![OTS Aim](Media/ots_aim.gif)
 
 ---
 
 ### Hitscan Shooting & Hit Feedback
 Line trace-based shooting with immediate visual and audio feedback on impact.
 
-<video src="Media/hitscan.mp4" controls muted loop playsinline width="100%"></video>
+![Hitscan Shooting](Media/hitscan.gif)
 
 ---
 
 ### Over-the-Shoulder Movement
 Smooth third-person locomotion tuned for shooter pacing and camera clarity.
 
-<video src="Media/ots_run.mp4" controls muted loop playsinline width="100%"></video>
+![OTS Run](Media/ots_run.gif)
 
 ---
 
