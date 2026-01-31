@@ -84,7 +84,7 @@ Responsive camera alignment with controlled shoulder offset and camera lag for s
 ### Hitscan Shooting & Hit Feedback
 Line trace-based shooting with immediate visual and audio feedback on impact.
 
-![Hitscan Shooting](Media/hitscan.gif)
+![Shooting](Media/shoot.gif)
 
 ---
 
