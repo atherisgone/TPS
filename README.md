@@ -1,4 +1,4 @@
-# Gun Feel (TPS)
+# Shootisfy (TPS)
 
 A **third-person shooter prototype** built in **Unreal Engine 5.3**, focused on **tight shooting feel, responsive gunplay, and short tactical rounds** in a compact arena-style map.
 
@@ -8,7 +8,7 @@ This project was developed as a **portfolio piece**, prioritizing **player satis
 
 ## 🎯 Core Concept
 
-Gun Feel is a **round-based third-person shooter** inspired by the pacing and tension of games like CS, reimagined from a third-person perspective.
+Shootisfy is a **round-based third-person shooter** inspired by the pacing and tension of games like CS, reimagined from a third-person perspective.
 
 - Small, readable map
 - Short, repeatable rounds
@@ -100,7 +100,7 @@ Smooth third-person locomotion tuned for shooter pacing and camera clarity.
 - Core shooting mechanics implemented
 - Damage and hit feedback working
 - Enemy placeholders active
-- Ongoing polish on gun feel and pacing
+- Ongoing polish on Shootisfy and pacing
 
 ---
 
