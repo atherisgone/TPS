@@ -46,7 +46,7 @@ The goal is simple:
 
 ## 🛠️ Technical Details
 
-- **Engine:** Unreal Engine 5.3
+- **Engine:** Unreal Engine 5.7
 - **Framework:** Blueprint-only (no C++)
 - **Perspective:** Third Person Shooter
 - **Weapon Type:** Hitscan (Line Trace)
