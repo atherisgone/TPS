@@ -1,6 +1,6 @@
 # Shootisfy (TPS)
 
-A **third-person shooter prototype** built in **Unreal Engine 5.3**, focused on **tight shooting feel, responsive gunplay, and short tactical rounds** in a compact arena-style map.
+A **third-person shooter prototype** built in **Unreal Engine 5.7**, focused on **tight shooting feel, responsive gunplay, and short tactical rounds** in a compact arena-style map.
 
 This project was developed as a **portfolio piece**, prioritizing **player satisfaction while shooting** over feature breadth.
 
